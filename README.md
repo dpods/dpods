@@ -4,7 +4,7 @@ Staff Software Engineer based in San Diego, CA, specializing in distributed syst
 
 ## About Me
 
-I'm passionate about building scalable, well-architected systems and mentoring engineers. Currently working at Platform Science, where I've architected and led the development of a distributed fleet management platform from the ground up.
+I build scalable, well-architected systems and mentor engineers. Currently working at Platform Science, where I've architected and led the development of a distributed, event-driven fleet management platform from the ground up.
 
 - Staff Software Engineer at Platform Science (2020-Present)
 - Published author: *Junior to Senior: Career Advice for the Ambitious Programmer* (Holloway, 2023)
@@ -12,11 +12,13 @@ I'm passionate about building scalable, well-architected systems and mentoring e
 
 ## Technical Expertise
 
-**Languages & Frameworks:** TypeScript/JavaScript, Node.js, PHP, Vue.js, React, Laravel, Kotlin
+**Languages & Frameworks:** TypeScript/JavaScript, Node.js, PHP, Vue.js, React, Laravel, Java, Kotlin
 
 **Infrastructure & DevOps:** Docker, Kubernetes, Terraform, Serverless, AWS (Lambda, ECS, S3, CloudFront, SQS, Kinesis, RDS), Jenkins, Nginx, Linux
 
 **Databases & Caching:** PostgreSQL, MySQL, DynamoDB, Redis
+
+**AI Tools:** Windsurf, Claude Code, Mastra.ai
 
 ## Highlights
 
