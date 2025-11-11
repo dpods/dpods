@@ -1,31 +1,33 @@
 # Hi, I'm David Glassanos
 
-Staff Software Engineer based in San Diego, CA, specializing in distributed systems, event-driven architectures, and enterprise platform development.
+Staff Software Engineer based in San Diego, CA, specializing in distributed systems, event-driven architectures, and full-stack enterprise platform development.
 
 ## About Me
 
-I build scalable, well-architected systems and mentor engineers. Currently working at Platform Science, where I've architected and led the development of a distributed, event-driven fleet management platform from the ground up.
+Staff Software Engineer specializing in mission-critical distributed systems, large-scale data pipelines, and real-time event-driven platforms. Over 14 years architecting scalable, high-performance systems and leading strategic cross-team initiatives that bring products from concept to market. Proven track record mentoring engineers to senior levels while establishing organization-wide technical standards. 
 
 - Staff Software Engineer at Platform Science (2020-Present)
-- Published author: *Junior to Senior: Career Advice for the Ambitious Programmer* (Holloway, 2023)
-- Built and soft-launched [Exxahub](https://www.exxahub.com), an algorithmic stock trading platform
+- Published author: [Junior to Senior: Career Advice for the Ambitious Programmer](https://www.holloway.com/b/junior-to-senior) (Holloway, 2023)
+- Built and run [Exxahub](https://www.exxahub.com), an algorithmic stock trading and backtesting platform
 
 ## Technical Expertise
 
-**Languages & Frameworks:** TypeScript/JavaScript, Node.js, PHP, Vue.js, React, Laravel, Java, Kotlin
+**AI Tools:** Claude Code, Windsurf (IDE), Masta.ai (Agent Framework), PgVector (Database)
 
-**Infrastructure & DevOps:** Docker, Kubernetes, Terraform, Serverless, AWS (Lambda, ECS, S3, CloudFront, SQS, Kinesis, RDS), Jenkins, Nginx, Linux
+**Languages & Frameworks:** TypeScript, JavaScript, Go, PHP, Vue.js, Express.js, Laravel
 
-**Databases & Caching:** PostgreSQL, MySQL, DynamoDB, Redis
+**Databases & Storage:** PostgreSQL, MySQL, DynamoDB, Redis, DuckDB, S3
 
-**AI Tools:** Windsurf, Claude Code, Mastra.ai
+**Infrastructure & DevOps:** Kubernetes, Docker, Terraform, Nginx, Linux, Jenkins
+
+**AWS Services:** VPC, IAM, EC2, SQS, CloudFormation, Lambda, ECS, ECR, CloudFront, Kinesis, RDS, DynamoDB
 
 ## Highlights
 
 - Architected micro-frontend platform using Module Federation, enabling independent team development
 - Led cross-team Kubernetes initiative consolidating backend services into unified customer-facing platform
-- Designed event-driven enterprise systems with TypeScript microservices
-- Conducted hundreds of technical interviews and mentored 3 engineers to senior promotions
+- Designed distributed event-driven enterprise systems with TypeScript microservices
+- Conducted hundreds of technical interviews and mentored multiple engineers to senior promotions
 - Built full-stack applications from infrastructure to frontend across multiple startups
 
 ## Projects
