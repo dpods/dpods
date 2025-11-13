@@ -1,10 +1,10 @@
 # Hi, I'm David Glassanos
 
-Staff Software Engineer based in San Diego, CA, specializing in distributed systems, event-driven architectures, and full-stack enterprise platform development.
+Full-Stack Staff Software Engineer based in San Diego, CA, specializing in mission-critical distributed systems, large-scale data pipelines, real-time event-driven platforms, and full-stack enterprise platform development.
 
 ## About Me
 
-Staff Software Engineer specializing in mission-critical distributed systems, large-scale data pipelines, and real-time event-driven platforms. Over 14 years architecting scalable, high-performance systems and leading strategic cross-team initiatives that bring products from concept to market. Proven track record mentoring engineers to senior levels while establishing organization-wide technical standards. 
+Over 14 years architecting scalable, high-performance systems and leading strategic cross-team initiatives that bring products from concept to market. Proven track record mentoring engineers to senior levels while establishing organization-wide technical standards. 
 
 - Staff Software Engineer at Platform Science (2020-Present)
 - Published author: [Junior to Senior: Career Advice for the Ambitious Programmer](https://www.holloway.com/b/junior-to-senior) (Holloway, 2023)
@@ -14,7 +14,7 @@ Staff Software Engineer specializing in mission-critical distributed systems, la
 
 **AI Tools:** Claude Code, Windsurf (IDE), Masta.ai (Agent Framework), PgVector (Database)
 
-**Languages & Frameworks:** TypeScript, JavaScript, Go, PHP, Vue.js, Express.js, Laravel
+**Languages & Frameworks:** TypeScript, JavaScript, Go, PHP, Java, Kotlin, Python, Vue.js, React, Express.js, Laravel
 
 **Databases & Storage:** PostgreSQL, MySQL, DynamoDB, Redis, DuckDB, S3
 
